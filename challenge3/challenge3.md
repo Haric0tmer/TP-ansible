@@ -40,4 +40,4 @@ pip install ansible
 
 Pour terminer on peut faire un ```ansible --version``` afin de verifier que l'installation s'est bien déroulée et verifier la version d'ansible qui a été installée.
 
-!()[./version.png]
+![](./version.png)
